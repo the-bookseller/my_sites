@@ -1,0 +1,1 @@
+This rep was created for training in the made of siten on djnago with css and html + practice of git.
